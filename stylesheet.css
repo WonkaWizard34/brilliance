@@ -7,8 +7,12 @@ h1 {
 	font-family: "Helvetica";
 	text-align: right;
 }
-p {
-	text-align: left;
+.main {
+	text-align: right;
+	position: relative
+}
+img {
+	position: absolute;
 }
 #logo {
 	float:right;
